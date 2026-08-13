@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "versionCode": 5,
-  "downloadUrl": "https://github.com/bushizenmezhemenanzhucea/3D-Mountain-Climb/releases/download/v1.2.4/update.apk",
-  "updateMessage": "修复：3D场景/地板不显示、角色爬坡横向漂移/卡住",
+  "version": "1.2.5",
+  "versionCode": 10205,
+  "downloadUrl": "https://github.com/bushizenmezhemenanzhucea/3D-Mountain-Climb/releases/download/v1.2.5/android-debug.apk",
+  "updateMessage": "更新到 V1.2.5",
   "forceUpdate": false
 }
